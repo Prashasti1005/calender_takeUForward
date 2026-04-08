@@ -5,7 +5,7 @@ A highly interactive, production-ready wall calendar component built with Next.j
 This project goes beyond a simple date picker by integrating a physical "wall calendar" aesthetic with modern SaaS features like drag-to-select, data export, strict booking logic, and dynamic seasonal theming based on the Indian climatic calendar.
 
 ## 🔗 Submission Links
-* **Video Demonstration:** [Insert your Loom/YouTube link here]
+* **Video Demonstration:** https://drive.google.com/file/d/1V-vl1F3ATQaRmImEk_oOO0-Yv4L60oVL/view?usp=sharing
 * **Live Demo:** https://calender-take-u-forward.vercel.app/
 
 ## ✨ Key Features & Technical Choices
