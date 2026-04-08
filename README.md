@@ -6,7 +6,7 @@ This project goes beyond a simple date picker by integrating a physical "wall ca
 
 ## 🔗 Submission Links
 * **Video Demonstration:** [Insert your Loom/YouTube link here]
-* **Live Demo:** [Insert your Vercel/Netlify link here]
+* **Live Demo:** https://calender-take-u-forward.vercel.app/
 
 ## ✨ Key Features & Technical Choices
 
